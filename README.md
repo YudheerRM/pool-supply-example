@@ -5,7 +5,7 @@ Table of Contents
 
  1.   Project Description
  2.   Installation
- 4.   Credits
+ 3.   Credits
 
 Project Description
 
